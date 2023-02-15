@@ -1,6 +1,5 @@
 # FreeCodeCamp Timestamp Microservice
 This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It takes a date string and gives you back a JSON with Unix value and natural format for the given date.
-> Cheers from Marseille (France), Lior Chamla
 
 # User stories:
 > 1. I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
